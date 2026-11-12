@@ -1,0 +1,23 @@
+{
+  "navbar": {
+    "logo": "مدیریت کارها",
+    "btn_light": "روشن",
+    "btn_dark": "تاریک",
+    "btn_login": "ورود کاربر",
+    "btn_system": "سیستم",
+    "logout": "خروج از سیستم",
+    "settings": "تنظیمات"
+  },
+  "signup": {
+    "title": "ایجاد حساب جدید",
+    "descreption": "ایجاد حساب جدید توسط ایمیل و رمز عبور",
+    "label": {
+      "name": "اسم کاربری",
+      "password": "رمز عبور",
+      "email": "ایمیل",
+      "btn_signup": "ایجاد حساب",
+      "already_have_account": "قبلاً حساب ایجاد کرده اید؟",
+      "btn_sign_in": "ورود کاربر"
+    }
+  }
+}

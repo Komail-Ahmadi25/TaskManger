@@ -1,0 +1,23 @@
+{
+  "navbar": {
+    "logo": "Task Manager",
+    "btn_light": "Light",
+    "btn_dark": "Dark",
+    "btn_login": "Login",
+    "btn_system": "System",
+    "logout": "Logout",
+    "settings": "Settings"
+  },
+  "signup": {
+    "title": "Sign Up new user",
+    "descreption": "Sign Up yourself with email and password",
+    "label": {
+      "name": "Name",
+      "password": "Password",
+      "email": "Email",
+      "btn_signup": "Sign Up",
+      "already_have_account": "Already Have An Account?",
+      "btn_sign_in": "Sign In"
+    }
+  }
+}
